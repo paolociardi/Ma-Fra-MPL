@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ma-Fra MPL", "Ma-Fra MPL.csproj", "{7A545C67-B92E-423C-BC28-D3F08A45F36D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MaFraMPL_Setup", "..\MaFraMPL_Setup\MaFraMPL_Setup.vdproj", "{D1264D9A-5FEE-486A-8F88-EE0A9DFD7698}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A545C67-B92E-423C-BC28-D3F08A45F36D}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{7A545C67-B92E-423C-BC28-D3F08A45F36D}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{7A545C67-B92E-423C-BC28-D3F08A45F36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A545C67-B92E-423C-BC28-D3F08A45F36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1264D9A-5FEE-486A-8F88-EE0A9DFD7698}.Debug|Any CPU.ActiveCfg = Release
+		{D1264D9A-5FEE-486A-8F88-EE0A9DFD7698}.Debug|Any CPU.Build.0 = Release
+		{D1264D9A-5FEE-486A-8F88-EE0A9DFD7698}.Release|Any CPU.ActiveCfg = Release
+		{D1264D9A-5FEE-486A-8F88-EE0A9DFD7698}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {482541D6-E2B1-45B1-B573-443C05EAE7C6}
+	EndGlobalSection
+EndGlobal
